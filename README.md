@@ -37,9 +37,9 @@ Thanks to Prateek Gaur for bugfixes and enhancements for exporters during his in
 
 If you use osm2wkt or maps provided on this site in your work, please cite the following:
 
->@MISC{mayer2010osm,
->  author = {Christoph P. Mayer},
->  title = {osm2wkt - OpenStreetMap to WKT Conversion},
->  howpublished = {http://www.chrismc.de/osm2wkt},
->  year = {2010}
->}
+    @MISC{mayer2010osm,
+      author = {Christoph P. Mayer},
+      title = {osm2wkt - OpenStreetMap to WKT Conversion},
+      howpublished = {http://www.chrismc.de/osm2wkt},
+      year = {2010}
+    }
